@@ -6,7 +6,4 @@ menu.addEventListener('click',function(){
     menulinks.classList.toggle('active');
 
 });
-const links = menu.quaryselectorALL('a');
- links.forEach(link =>{links.addEventlistener('click',(e) =>{e.stopPropagation();
-                                                            });
-                      });
+
