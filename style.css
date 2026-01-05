@@ -269,12 +269,8 @@
  .footer a:hover{
    text-decoration: underline;
  }
-#mobile-menu{
-    display:none;
-}
-#mobile-menu.active{
-    display:block;
-}
+
 
 
     
+
