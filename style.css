@@ -79,11 +79,10 @@
     .navbar_container{
         display: flex;
         justify-content: space-between;
-        height: 400px;
+        min-height:60px;
         z-index: 1;
         width: 100%;
-        max-width: 1300px;
-        padding: 0;
+        padding: 0 15px;
     
 }
 
@@ -274,6 +273,7 @@
 
 
     
+
 
 
 
